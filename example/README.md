@@ -1,6 +1,6 @@
-# flutter_thailand_provinces_example
+# example
 
-Demonstrates how to use the flutter_thailand_provinces plugin.
+This is for user to learn how to  use this package.
 
 ## Getting Started
 

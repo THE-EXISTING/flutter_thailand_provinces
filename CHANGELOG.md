@@ -1,7 +1,3 @@
-## 1.0.1
+## [0.0.1] - 2022-01-06
 
-add background dialog option.
-
-## 1.0.0
-
-First version
+* First release, please check out README.md.
